@@ -1,0 +1,30 @@
+[
+  {
+    "vegetable": "eggplant", 
+    "length": "8"
+  }, 
+  {
+    "vegetable": "tomato", 
+    "length": "6"
+  }, 
+  {
+    "vegetable": "corn", 
+    "length": "4"
+  }, 
+  {
+    "vegetable": "potato", 
+    "length": "6"
+  }, 
+  {
+    "vegetable": "green bean", 
+    "length": "10"
+  }, 
+  {
+    "vegetable": "cucumber", 
+    "length": "8"
+  }, 
+  {
+    "vegetable": "carrot", 
+    "length": "6"
+  }
+]
